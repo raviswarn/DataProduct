@@ -1,0 +1,5 @@
+# Developing Data Products Course Project-  Shiny Application and Reproducible Pitch Presentation
+
+1. The documentation of the application can be found at [http://swarnaravi.github.io/DataProduct/](http://swarnaravi.github.io/DataProduct/)
+2. The  Shiny application can found at [https://anupb08.shinyapps.io/DataProducts](https://swarnaravi.shinyapps.io/DataProduct)
+3. The Pitch Presentation can found at [http://anupb08.github.io/PitchPresentation](http://swarnaravi.github.io/PitchPresentation#1) (Note: May need to reload the URL, sometimes page may not open if you click on the link) 
