@@ -2,10 +2,10 @@
 # Developing Data Products - Shiny Application and Reproducible Pitch
 
 ## Overview
-For the developing Data Products course project I have created a Shiny Application which will predict diamond price on the basis of chosen parameters. Diamond dataset which I have collected from the website http://www.pricescope.com/. Diamond price determined by several factors, such as carat, Clarity, Cut etc. In my dataset I have choosen 6 predictors - Shape, Carat,Cut, Color, Clarity, Depth.
+For the developing Data Products course project I have created a Shiny Application which will predict diamond price on the basis of chosen parameters. Diamond price determined by several factors, such as carat, Clarity, Cut etc. In my dataset I have choosen 6 predictors - Shape, Carat,Cut, Color, Clarity, Depth.
 
 ## Data Preparation
-Read the dataset [Diamond_price.csv](https://github.com/anupb08/DataProducts) which is in the current directory.
+Read the dataset [Diamond_price.csv](https://github.com/swarnaravi/DataProduct) which is in the current directory.
 
 ```r
 data <- read.csv("Diamond_price.csv", header=TRUE)
